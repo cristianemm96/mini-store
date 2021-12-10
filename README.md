@@ -1,1 +1,2 @@
 # mini-store
+Practicando java :)
